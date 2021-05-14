@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="HIPS_Action_Accept_Once">한 번만 허용</string>
+	<string name="HIPS_Action_Accept_Once">한 번만 허용 &</string>
     <string name="HIPS_Action_Accept_This">한 번만 허용</string>
     <string name="HIPS_Action_Accept">허용</string>
     <string name="HIPS_ACTION_REJECT_CLEAR">제한 및 클립보드 비우기</string>
